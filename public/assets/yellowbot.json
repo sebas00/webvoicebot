@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "yellowbot.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1557,
+				"h": 1629
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ezgif-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					}
+				},
+				{
+					"filename": "ezgif-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					},
+					"frame": {
+						"x": 519,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					}
+				},
+				{
+					"filename": "ezgif-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					},
+					"frame": {
+						"x": 1038,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					}
+				},
+				{
+					"filename": "ezgif-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					},
+					"frame": {
+						"x": 0,
+						"y": 543,
+						"w": 519,
+						"h": 543
+					}
+				},
+				{
+					"filename": "ezgif-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					},
+					"frame": {
+						"x": 519,
+						"y": 543,
+						"w": 519,
+						"h": 543
+					}
+				},
+				{
+					"filename": "ezgif-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					},
+					"frame": {
+						"x": 1038,
+						"y": 543,
+						"w": 519,
+						"h": 543
+					}
+				},
+				{
+					"filename": "ezgif-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					},
+					"frame": {
+						"x": 0,
+						"y": 1086,
+						"w": 519,
+						"h": 543
+					}
+				},
+				{
+					"filename": "ezgif-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 543
+					},
+					"frame": {
+						"x": 519,
+						"y": 1086,
+						"w": 519,
+						"h": 543
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:378f4780cb05eba324be3432fbc6f0f8:a67711c41dd677a9825f415a439dbc56:8d6f596e0b16e2fe29e8b91779a31446$"
+	}
+}
